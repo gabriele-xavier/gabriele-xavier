@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo(a) ao meu GitHub! 👋
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo HTML, CSS e JavaScript.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo HTML, CSS e JavaScript
 
 <div>
   <a href="https://github.com/gabriele-xavier">
